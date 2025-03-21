@@ -1,0 +1,234 @@
+systems:
+- name: original-compare
+  description: Original audios.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/original.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR5-GD6d25-compare
+  description: Noised audios around SNR 5 dB and GD 6.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR5-GD6d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR5-GD8d75-compare
+  description: Noised audios around SNR 5 dB and GD 8.75 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR5-GD8d75.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR5-GD11d25-compare
+  description: Noised audios around SNR 5 dB and GD 11.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR5-GD11d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR5-GD13d75-compare
+  description: Noised audios around SNR 5 dB and GD 13.75 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR5-GD13d75.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR5-GD16d25-compare
+  description: Noised audios around SNR 5 dB and GD 16.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR5-GD16d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR15-GD3d75-compare
+  description: Noised audios around SNR 15 dB and GD 3.75 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR15-GD3d75.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR15-GD6d25-compare
+  description: Noised audios around SNR 15 dB and GD 6.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR15-GD6d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR15-GD8d75-compare
+  description: Noised audios around SNR 15 dB and GD 8.75 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR15-GD8d75.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR15-GD11d25-compare
+  description: Noised audios around SNR 15 dB and GD 11.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR15-GD11d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR25-GD1d25-compare
+  description: Noised audios around SNR 25 dB and GD 1.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR25-GD1d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR25-GD3d75-compare
+  description: Noised audios around SNR 25 dB and GD 3.75 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR25-GD3d75.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR25-GD6d25-compare
+  description: Noised audios around SNR 25 dB and GD 6.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR25-GD6d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR35-GD1d25-compare
+  description: Noised audios around SNR 35 dB and GD 1.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR35-GD1d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+- name: SNR45-GD1d25-compare
+  description: Noised audios around SNR 45 dB and GD 1.25 dB.
+  url: null
+  media_type: audio
+  samples:
+    path_list_file: /nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/SNR45-GD1d25.csv
+    sample_file_base_directory: null
+    csv_header_as_attribute: true
+    include_text_content: false
+
+evaluation_scales:
+    ## This ID is automatically updated once created.
+  - id: "a7lXvfqetJNk"
+    evaluation_method: "Compare"
+    test_page_language: "ja"
+    scale_a: "Aの方が良い"
+    scale_b: "Bの方が良い"
+
+experiment:
+  ## This ID is automatically updated once created.
+  id: "rGkyea9e2EKd"
+  name: "PDSDS-mergerank-60"
+  description: "Experiments to match objective metrics with auditory perceptions. (MergeRank)"
+  example_sample:
+    sample_name: "p226_263"
+    system_name: "original-compare"
+  ## enum: ['ja', 'en', 'fr']
+  test_page_language: 'ja'
+  n_test_page_in_test_item: 60
+  ## (Optional) This is an instruction for all tests. HTML tags are allowed.
+  global_instruction: null
+  ## (Optional) Extra information collected from a listener
+  extra_listener_information_schema: null
+  ## (Optional) Caution information to be overridden, which is presented to listeners before starting a test.
+#  caution_overrides:
+#    - '(Edit me) Unless being asked to do so, you are not required to understand the audio samples when answering the questions.'
+  experimental_specification:
+    min_test_items_to_complete: 1
+    max_test_items_to_complete: 1
+    start_date_of_experiment: "2024-09-08T14:00:00+09:00"
+    end_date_of_experiment: "2024-09-22T14:00:00+09:00"
+    date_of_specification_document: "2024-09-01T14:00:00+09:00"
+    ## If 'auto', it is computed based on a sample list.
+    expected_completion_time_in_minutes: 15
+    ## If 'auto', it is computed based on a sample list.
+    test_item_expiration_duration_in_minutes: 30
+  manifests:
+      ## This ID is automatically updated once created.
+    - id: "74GBE3bXqw9Z"
+      ## enum: ['Static', 'Preference', 'MergeRank']
+      manifest_type: 'MergeRank'
+      ## enum: [ 'A', 'AB', 'ABC' ]
+      sample_pair_media_format: 'AudioPair'
+      sample_group_list_file: "/nas02/internal/d_yoon/nii-listening-test-scripts/my_listening_test_compare/sample_list.csv"
+      system_abbreviations:
+        - system_name: "original-compare"
+          abbreviation: "ORI"
+        - system_name: "SNR45-GD1d25-compare"
+          abbreviation: "S45G1"
+        - system_name: "SNR35-GD1d25-compare"
+          abbreviation: "S35G1"
+        - system_name: "SNR25-GD1d25-compare"
+          abbreviation: "S25G1"
+        - system_name: "SNR25-GD3d75-compare"
+          abbreviation: "S25G3"
+        - system_name: "SNR15-GD3d75-compare"
+          abbreviation: "S15G3"
+        - system_name: "SNR25-GD6d25-compare"
+          abbreviation: "S25G6"
+        - system_name: "SNR15-GD6d25-compare"
+          abbreviation: "S15G6"
+        - system_name: "SNR5-GD6d25-compare"
+          abbreviation: "S5G6"
+        - system_name: "SNR15-GD8d75-compare"
+          abbreviation: "S15G8"
+        - system_name: "SNR5-GD8d75-compare"
+          abbreviation: "S5G8"
+        - system_name: "SNR15-GD11d25-compare"
+          abbreviation: "S15G11"
+        - system_name: "SNR5-GD11d25-compare"
+          abbreviation: "S5G11"
+        - system_name: "SNR5-GD13d75-compare"
+          abbreviation: "S5G13"
+        - system_name: "SNR5-GD16d25-compare"
+          abbreviation: "S5G16"
+      ## (Optional) This is an instruction text presented to listeners. HTML tags are allowed.
+      instruction: null
+      questions:
+        - evaluation_method: "Compare"
+          ## This is optional but highly recommended to set. Create evaluation scales and set evaluation_scales.id here.
+          evaluation_scale_id: 'a7lXvfqetJNk'
+          sentence: '次の２つの歌声を聴いて、品質が高い方を選択してください。いくつかの歌声は自然に聞こえますが、いくつかの歌声はコンピューター処理による劣化により人工的に聞こえます。この評価での歌声の品質とは発音の良し悪しを意味しません。発音が不自然でも信号品質が高い方を選択してください。'
+      ## The number of test items.
+      n_test_item: 135
+      ## The number of samples in a sample group
+      n_group_item: 15
+      online_rank:
+        ## Question which Merge Rank is based on
+        question_index: 1
+        ## Merge Rank tolerance (max = 289)
+        epsilon: 0.1013
+        ## Merge Rank error rate
+        delta: 0.05
+        ## How to allocate evaluations to reduce errors. enum: ['ReduceHighest', 'ReduceTotal']
+        error_reduction_mode: "ReduceHighest"
+test:
+  n_listeners: 500
